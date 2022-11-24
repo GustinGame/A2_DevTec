@@ -11,6 +11,8 @@ Link para o Diagrama de caso de uso e o Diagrama de máquina de estado :[link](h
 Link para o Scrum do projeto e o Backlog:[link](https://github.com/GustinGame/A2_DevTec/blob/main/Link%20Trello.md)
 
 Link para o Protótipo do projeto:[link](https://github.com/GustinGame/A2_DevTec/blob/main/Prot%C3%B3tipo-figma.md)
+
+Click para baixar a planilha de teste:[Download](https://github.com/GustinGame/A2_DevTec/blob/main/office.xlsx?raw=true)
 ##
 
 ## Integrantes desse projeto
